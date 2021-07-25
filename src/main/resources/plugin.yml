@@ -1,0 +1,5 @@
+name: Netherritefloat
+version: ${project.version}
+main: dev.foraged.netherritefloat.Netherritefloat
+api-version: 1.16
+description: Make nethereite armor float
